@@ -1,0 +1,7 @@
+Flask
+Flask-PyMongo
+Flask-WTF
+Flask-Bcrypt
+Flask-Login
+email-validator
+gunicorn
